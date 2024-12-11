@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Customize Swiper container */
+.our-car-slider {
+  background-color: #f4f6ff; /* lightBlue background */
+  padding-bottom: 2rem; /* Adds a little padding at the bottom */
+}
+
+/* Customize Swiper navigation buttons */
+.our-car-slider .swiper-button-next,
+.our-car-slider .swiper-button-prev {
+  color: #f3c623; /* brightYellow */
+  background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent dark background */
+  padding: 0.5rem;
+  border-radius: 50%;
+}
+
+/* Swiper pagination customization */
+.our-car-slider .swiper-pagination-bullet {
+  background-color: #d1d5db; /* Default pagination bullet color */
+  opacity: 1; /* Full visibility */
+  width: 0.8rem;
+  height: 0.8rem;
+}
+
+.our-car-slider .swiper-pagination-bullet-active {
+  background-color: #f3c623; /* brightYellow for active bullet */
+  width: 1rem;
+  height: 1rem;
+}
+
+/* Adjust image styles */
+.our-car-slider img {
+  border-radius: 0.5rem; /* Rounded corners for a softer look */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Subtle shadow for depth */
+}
