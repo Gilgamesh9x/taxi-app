@@ -11,7 +11,7 @@ const features = [
   {
     name: "Navette Aéroport Casablanca",
     description:
-      "Vous êtes à Casablanca et vous cherchez une navette aéroport Casablanca « Transfert Casablanca » vous propose un service des navettes hautes gammes à Casablanca, avec des chauffeurs bien formés et informés sur votre plan journalier à Casablanca.",
+      "Vous êtes à Casablanca et vous cherchez une navette aéroport Casablanca « Taj Tours » vous propose un service des navettes hautes gammes à Casablanca, avec des chauffeurs bien formés et informés sur votre plan journalier à Casablanca.",
     icon: FaRegBuilding,
   },
   {
@@ -23,25 +23,25 @@ const features = [
   {
     name: "Mise à disposition",
     description:
-      "Quelle que soit votre destination à Casablanca (hôtels, bureau, magasins, gares casa port, gare casa voyageurs, porte….) « Transfert Casablanca » met à votre disposition des transferts de qualités pour une journée ou demi journée.",
+      "Quelle que soit votre destination à Casablanca (hôtels, bureau, magasins, gares casa port, gare casa voyageurs, porte….) « Taj Tours » met à votre disposition des transferts de qualités pour une journée ou demi journée.",
     icon: FaSubway,
   },
   {
     name: "Réservations urgentes",
     description:
-      "Vous êtes en groupe ou seul et vous voulez visiter Casablanca ou d’autre ville de Maroc. « Transfert Casablanca » met à votre service des véhicules variés et des transferts de capacités comme : navettes, mini bus, 4×4, bus…",
+      "Vous êtes en groupe ou seul et vous voulez visiter Casablanca ou d’autre ville de Maroc. « Taj Tours » met à votre service des véhicules variés et des transferts de capacités comme : navettes, mini bus, 4×4, bus…",
     icon: FaExclamationTriangle,
   },
   {
     name: "Circuits au Maroc",
     description:
-      "« Transfert Casablanca » vous offre des meilleurs circuits touristiques au Maroc avec un prix convenable à votre budget et votre choix. Pour bien vous voir votre programme de circuit vers les villes de Maroc, merci de nous remplir votre formulaire de contact.",
+      "« Taj Tours » vous offre des meilleurs circuits touristiques au Maroc avec un prix convenable à votre budget et votre choix. Pour bien vous voir votre programme de circuit vers les villes de Maroc, merci de nous remplir votre formulaire de contact.",
     icon: FaUmbrellaBeach,
   },
   {
     name: "Excursions privé au Maroc",
     description:
-      "Avec « Transfert Casablanca » bénéficiez vous des excursions privés pas chers au Maroc à différentes destinations par exemple : (Marrakech, Casablanca, Essaouira, Rabat, Ouarzazate, Zagora, el Jadida, Fès, Tanger, Agadir, Ifrane, Oualidia), et vous pouvez aussi découvrir le vrai charme marocain avec notre équipe professionnel.",
+      "Avec « Taj Tours » bénéficiez vous des excursions privés pas chers au Maroc à différentes destinations par exemple : (Marrakech, Casablanca, Essaouira, Rabat, Ouarzazate, Zagora, el Jadida, Fès, Tanger, Agadir, Ifrane, Oualidia), et vous pouvez aussi découvrir le vrai charme marocain avec notre équipe professionnel.",
     icon: FaCreditCard,
   },
 ];
@@ -59,10 +59,10 @@ export default function Features() {
           </p>
           <p className="mt-6 text-lg leading-8 text-deepBlue/75">
             Que vous soyez à Casablanca ou ailleurs au Maroc, profitez des
-            services de « Transfert Casablanca » pour vos transferts aéroport,
-            circuits, excursions privées et plus encore. Avec des chauffeurs
-            expérimentés, un service de qualité et des prix compétitifs, nous
-            assurons vos déplacements en toute sérénité.
+            services de « Taj Tours » pour vos transferts aéroport, circuits,
+            excursions privées et plus encore. Avec des chauffeurs expérimentés,
+            un service de qualité et des prix compétitifs, nous assurons vos
+            déplacements en toute sérénité.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">

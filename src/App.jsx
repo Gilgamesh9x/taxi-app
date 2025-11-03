@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <a
-        href="https://wa.me/0708296250"
+        href="https://wa.me/212708296250"
         className="fixed bottom-4 right-4 z-50"
         target="_blank"
         rel="noopener noreferrer"
