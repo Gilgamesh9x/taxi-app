@@ -3,17 +3,17 @@ import { MdOutlineEmail } from "react-icons/md";
 const navigation = [
   {
     name: "Facebook",
-    href: "https://www.facebook.com",
+    href: "https://www.facebook.com/profile.php?id=61568248181634",
     icon: FaFacebook,
   },
   {
     name: "Instagram",
-    href: "http://www.instagram.com",
+    href: "http://www.instagram.com/taj.tours",
     icon: FaInstagram,
   },
   {
     name: "Whatsapp",
-    href: "#",
+    href: "https://wa.me/212708296250",
     icon: FaWhatsapp,
   },
   {
